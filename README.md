@@ -1,6 +1,6 @@
 # 🌸✨ Hi! I'm Eleanor 
 
--  **IT (IoT) Student** at **[Asia Pacific University](https://www.apu.edu.my)**
+-  **Undergraduate IT (IoT) Student** at **[Asia Pacific University](https://www.apu.edu.my)**
 -  Interested in **IoT Engineering and Backend Development**
 
 ## 💕 Socials:
