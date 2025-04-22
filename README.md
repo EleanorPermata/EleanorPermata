@@ -30,8 +30,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-98FB98?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-DDA0DD?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EleanorPermata&theme=rose&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=EleanorPermata&theme=rose&hide_border=false)  
-
 
