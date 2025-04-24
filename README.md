@@ -1,33 +1,49 @@
-# 🌺✨ Hi! I'm Eleanor 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=180&section=header&text=Hi!%20I'm%20Eleanor%20👋&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IoT%20Student%20|%20Student%20Ambassador&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
+</div>
 
--  **Undergraduate IT (IoT) Student** at **[Asia Pacific University](https://www.apu.edu.my)**
--  Interested in **IoT Engineering and Backend Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleanorpermatal@example.com)
 
-## 🌷 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
-![Email](https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=white)
+## About Me
+IoT enthusiast and backend developer passionate about building connections between the physical and digital worlds.
 
+- 🎓 Undergraduate IT (IoT) Student at [Asia Pacific University](https://www.apu.edu.my)
+- 💡 Focused on IoT Engineering and Backend Development
+- 👩🏻‍💻 Working on something...
 
-## 🌱 Tech Stack:
-![Python](https://img.shields.io/badge/Python-F6E58D?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-F4C2C2?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-FAE3D9?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-F8DE7E?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![R](https://img.shields.io/badge/R-ADD8E6?style=for-the-badge&logo=r&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-DDA0DD?style=for-the-badge&logo=mysql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-AEEEEE?style=for-the-badge&logo=javascript&logoColor=%23323330) 
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-F6E58D?style=for-the-badge&logo=css3&logoColor=black) 
-![Arduino](https://img.shields.io/badge/Arduino-AEEEEE?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Cisco-FADADD?style=for-the-badge&logo=cisco&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-B0E0E6?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-FFB387?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-98FB98?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-E6A8D7?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-B0E0E6?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-FFC0CB?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-98FB98?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-DDA0DD?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
+## Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### IoT & Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+## Currently Learning
+- How to Graduate with First Class Honours For Dummies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&show_icons=true&theme=sunset-gradient" alt="GitHub Stats" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=100&section=footer&text=Let's%20Connect!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
