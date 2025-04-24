@@ -42,7 +42,7 @@ IoT enthusiast and backend developer passionate about building connections betwe
 - How to Graduate with First Class Honours For Dummies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&show_icons=true&theme=sunset-gradient" alt="GitHub Stats" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="50%"/>
 </div>
 
 <div align="center">
