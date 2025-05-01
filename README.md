@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=180&section=header&text=Hi!%20I'm%20Eleanor%20👋&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IoT%20Student%20|%20Student%20Ambassador&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=180&section=header&text=Hi!%20I'm%20Eleanor%20👋&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20(IoT)%20Student&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
