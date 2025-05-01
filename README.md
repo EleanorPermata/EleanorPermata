@@ -5,8 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleanorpermatal@example.com)
 
-## About Me
-IoT enthusiast and backend developer passionate about building connections between the physical and digital worlds.
+## About Me 💫
 
 - 🎓 Undergraduate IT (IoT) Student at [Asia Pacific University](https://www.apu.edu.my)
 - 💡 Focused on IoT Engineering and Backend Development
@@ -39,11 +38,9 @@ IoT enthusiast and backend developer passionate about building connections betwe
 
 
 ## Currently Learning
-- How to Graduate with First Class Honours For Dummies
+"How to Graduate with First Class Honours For Dummies"
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="50%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="50%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=100&section=footer&text=Let's%20Connect!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
