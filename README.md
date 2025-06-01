@@ -5,13 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleanorpermatal@example.com)
 
-## About Me 💫
+## A bit about me
 
 - 🎓 Undergraduate IT (IoT) Student at [Asia Pacific University](https://www.apu.edu.my)
-- 💡 Focused on IoT Engineering and Backend Development
+- 💡 Focusing on IoT Engineering and Backend Development
 - 👩🏻‍💻 Working on something...
 
-## Tech Stack
+## My current tech stack
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -35,12 +35,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-
-## Currently Learning
-"How to Graduate with First Class Honours For Dummies"
-
-<img src="https://github-readme-stats.vercel.app/api?username=EleanorPermata&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="50%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=100&section=footer&text=Let's%20Connect!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
