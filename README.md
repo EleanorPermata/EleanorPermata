@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=180&section=header&text=Hi!%20I'm%20Eleanor%20👋&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20(IoT)%20Student&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,500,30&height=180&section=header&text=Hi!%20I'm%20Eleanor%20👋&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20(IoT)%20Student&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
 </div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EleanorPermata) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleanorpermatal@example.com)
@@ -37,5 +38,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30&height=100&section=footer&text=Let's%20Connect!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,500&height=100&section=footer&text=Let's%20Connect!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
+
